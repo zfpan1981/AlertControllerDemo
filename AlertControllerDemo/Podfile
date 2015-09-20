@@ -1,0 +1,16 @@
+# Uncomment this line to define a global platform for your project
+# platform :ios, ‘8.0’
+
+target ‘AlertControllerDemo’ do
+
+pod 'Masonry'
+
+end
+
+target ‘AlertControllerDemoTests’ do
+
+end
+
+target ‘AlertControllerDemoUITests’ do
+
+end
